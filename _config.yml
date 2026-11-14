@@ -1,0 +1,13 @@
+# GitHub Pages: https://secondwindlimited.github.io/birdlens-bird-species-guide/
+title: "Bird Species Guide: 751 Birds"
+description: "An open index of 751 bird species with scientific names, order, family and genus. By BirdLens, the AI bird identifier."
+url: https://secondwindlimited.github.io
+baseurl: /birdlens-bird-species-guide
+lang: en
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+author:
+  name: SECOND WIND LIMITED
+  url: https://secondwindltd.xyz/
